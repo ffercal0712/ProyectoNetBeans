@@ -7,6 +7,7 @@ public class ProyectoNetBeansGit {
         System.out.println("Primer commit");
         System.out.println("Segundo commit");
         System.out.println("Tercer commit en rama1 !!!");
+        System.out.println("Cuarto commit, ahora con merge");
         
     }
     
